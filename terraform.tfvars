@@ -1,2 +1,2 @@
 git_username = "kalyanreddyc"
-git_token    = "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"
+git_token    = "<token>"
